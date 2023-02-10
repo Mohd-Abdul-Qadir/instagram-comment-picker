@@ -1,0 +1,21 @@
+{
+  "name": "random-instagram-comment-picker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MrAugu",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "helmet": "^3.21.2",
+    "instagram-api": "^1.0.3",
+    "instagram-node": "^0.5.8",
+    "node-fetch": "^2.6.0"
+  }
+}
